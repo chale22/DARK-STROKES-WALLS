@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+    <version>2.0</version>
+    <themeName>Dark Strokes</themeName>
+    <themeInfo>Dark Strokes Description</themeInfo>
+    <preview img1="preview1" />
+    <preview img2="preview2" />
+</theme>

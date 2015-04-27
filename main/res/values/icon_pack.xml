@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- These sections below are for your "Previews" section -->
+    <!-- These names should match YOUR actual icon names
+    	 the names used below are just for sampling purposes -->
+
+    <!-- LATEST ICONS -->
+    <!-- All of your Latest icons listed here -->
+    <string-array name="latest">
+		<item>eightballpool</item>
+		<item>actionlauncher3</item>
+		<item>aitype_keyboard_free</item>
+		<item>aitype_emoji_plugin</item>
+		<item>alarm_dehox</item>
+		<item>android_wear</item>
+		<item>audiofx</item>
+		<item>browser_arc</item>
+		<item>busybox</item>
+		<item>cal</item>
+		<item>camera2</item>
+		<item>cm_browser</item>
+		<item>cmfilemanager</item>
+		<item>cmthemes</item>
+		<item>deskclock</item>
+		<item>flesky</item>
+		<item>fleskypaid</item>
+		<item>fxexplorer</item>
+		<item>google_app</item>
+		<item>google_keyboard</item>
+		<item>google_opinion_rewards</item>
+		<item>google_playservices</item>
+		<item>hello</item>
+		<item>holo_launcher</item>
+		<item>inbox</item>
+		<item>inbrowser</item>
+		<item>maxthon_browser</item>
+		<item>mercury</item>
+		<item>messenger</item>
+		<item>messenger1</item>
+		<item>messenger2</item>
+		<item>next_browser</item>
+		<item>textra</item>
+		<item>touchpal</item>
+		<item>the_weather_channel1</item>
+		<item>ucbrowser</item>
+		<item>ucbrowsermini</item>
+		<item>viper4android_fx</item>
+		<item>weatherunderground</item>
+	</string-array>
+	
+	
+	
+    <!-- SYSTEM ICONS -->
+    <!-- System icons listed here -->
+    <string-array name="system">
+		<item>dialer</item>
+        <item>settings</item>
+        <item>andy_alt</item>
+        <item>andy_two</item>
+        <item>an_icon_with_long_name</item>
+        <item>icon_with_short_name</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+    </string-array>
+
+    <!-- GOOGLE APPS ICONS -->
+    <!-- Google Apps icons are listed here -->
+    <string-array name="google">
+		<item>google_app</item>
+		<item>google_keyboard</item>
+		<item>google_opinion_rewards</item>
+		<item>google_playservices</item>
+    </string-array>
+
+    <!-- GAMES ICONS -->
+    <!-- Game icons are listed here -->
+    <string-array name="games">
+		<item>eightball</item>
+        <item>candycrush</item>
+    </string-array>
+
+
+    <!-- ALL ICONS -->
+    <!-- All of your icons listed here -->
+    <string-array name="icon_pack" translatable="false">
+		<item>fimbo</item>
+        <item>andy</item>
+        <item>andy_alt</item>
+        <item>andy_two</item>
+        <item>an_icon_with_long_name</item>
+        <item>icon_with_short_name</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+        <item>andy</item>
+    </string-array>
+</resources>

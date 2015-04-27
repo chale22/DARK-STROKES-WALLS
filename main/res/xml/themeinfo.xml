@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><!-- This is for Atom Launcher -->
+<themeInfo>
+    <packageName>c_hale22.iconpack.ico1</packageName>
+    <versionName>2.0</versionName>
+    <versionCode>2</versionCode>
+    <themeName>Dark Strokes</themeName>
+    <!-- Default Component Color -->
+    <themePointColor>#e0e0e0</themePointColor>
+    <themePreview img1="preview1" />
+    <preview img1="preview1" />
+</themeInfo>
